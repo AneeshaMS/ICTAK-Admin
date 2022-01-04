@@ -1,0 +1,7 @@
+.navbar-main{
+    background-color: #f8f9fa;
+}
+
+textarea ::placeholder{
+    color:#344767;
+}
